@@ -3,4 +3,4 @@ I am *Snej55* 🐱‍👤
 
 I do coding stuff
 
-I do mainly python, but also some c & c++ and some stuff with sonic-pi. 🐍
+I do mainly python, but also some c & c++ and some stuff with ruby. 🐍
