@@ -1,6 +1,9 @@
 # Hello
 I am *Snej55* 🐱‍👤
 
-I do coding stuff
+I do **stuff** 💥
 
-I do mainly python, but also some c & c++ and some stuff with ruby. 🐍
+I do _python_ with **pygame** mainly 🐍
+
+I do _**other stuff**_ as well 🖥
+
