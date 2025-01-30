@@ -1,5 +1,5 @@
 Hello.
-Does mainly C/C++, Python, HTML/CSS/JS, VB.NET, Java and Ruby.
+Does mainly C/C++ and Python, and comfortable with HTML/CSS/JS, VB.NET, Java and Ruby.
 Familiar with CMake and GLSL.
 Prefers C++ and Python.
 Comfortable with SDL2, PyGame, GLFW, SFML and Raylib.
