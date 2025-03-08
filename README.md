@@ -3,7 +3,7 @@ Does mainly C/C++ and Python, and comfortable with HTML/CSS/JS, VB.NET, Java and
 
 Comfortable with SDL2, PyGame, OpenGL (GLFW), SFML, RayLib, GLSL and CMake.
 
-Contact me: jenskromdijk@gmail.com
+Contact me: jenskromdijk@gmail.com | snej55.dev@gmail.com
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snej55&theme=ayu-mirage&show_icons=true&count_private=true&layout=compact)](https://github.com/snej55/github-readme-stats)
 
