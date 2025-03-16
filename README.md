@@ -1,9 +1,12 @@
-Hello.
-Does mainly C/C++ and Python, and comfortable with HTML/CSS/JS, VB.NET, Java and Ruby.
+Hi👋 I code stuff.
 
-Comfortable with SDL2, PyGame, OpenGL (GLFW), SFML, RayLib, GLSL and CMake.
+💻 I program mainly in C/C++ and a bit of python, but I'm also familiar with HTML/CSS/JS, VB.NET, Ruby and Javascript.
 
-Contact me: jenskromdijk@gmail.com | snej55.dev@gmail.com
+🦙 I'm comfortable with SDL2, OpenGL (GLFW & GLAD), SFML, Raylib and PyGame, as well as CMake and GLSL.
+
+⌨️ I specialize in mostly graphics related projects (games, vfx, simulations etc), but I do other stuff as well.
+
+📫 Contact me? Go here: jenskromdijk@gmail.com | snej55.dev@gmail.com
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snej55&theme=ayu-mirage&show_icons=true&count_private=true&layout=compact)](https://github.com/snej55/github-readme-stats)
 
