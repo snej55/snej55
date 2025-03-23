@@ -1,6 +1,6 @@
 Hi👋 I code stuff.
 
-💻 I program mainly in C/C++ and a bit of python, but I'm also familiar with HTML/CSS/JS, VB.NET, Ruby and Javascript.
+💻 I program mainly in C/C++ and a bit of python, but I'm also familiar with HTML/CSS/JS, VB.NET, Ruby and Java.
 
 🦙 I'm comfortable with SDL2, OpenGL (GLFW & GLAD), SFML, Raylib and PyGame, as well as CMake and GLSL.
 
