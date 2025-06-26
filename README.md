@@ -28,10 +28,6 @@ Hi👋 I code stuff.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snej55&theme=ayu-mirage&show_icons=true&count_private=true&layout=compact&langs_count=8)](https://github.com/snej55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snej55&layout=compact&theme=ayu-mirage&count_private=true&langs_count=8)](https://github.com/snej55/github-readme-stats)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=snej55&theme=ayu-mirage&show_icons=true&count_private=true&include_all_commits=true)
-
-<!-- ![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=443&api_domain=hackatime.hackclub.com&theme=ayu-mirage&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6) -->
