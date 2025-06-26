@@ -2,7 +2,7 @@ Hi👋 I code stuff.
 
 💻 I program mainly in C/C++, but I'm also comfortable with Python, HTML/CSS/JS, VB.NET, GLSL, Ruby and Java.
 
-🦙 I'm comfortable with many libraries and tools, inluding SDL2, OpenGL (GLFW & GLAD), React, CMake and Git.
+🦙 I have experience with many libraries and tools, inluding SDL2, OpenGL (GLFW & GLAD), React, CMake and Git.
 
 ⌨️ I specialize in mostly graphics related projects (games, vfx, simulations etc), but I do other stuff as well!
 
