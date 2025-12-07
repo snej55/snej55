@@ -1,10 +1,10 @@
 Hi👋 I code stuff.
 
-💻 I program mainly in C/C++, but I'm also comfortable with Python, HTML/CSS/JS, VB.NET, GLSL, Ruby and Java.
+💻 I program mainly in C/C++ at the moment, but I'm also comfortable with Python, HTML/CSS/JS, VB.NET, GLSL, Ruby and Java.
 
-🦙 I have experience with many libraries and tools, inluding SDL2, OpenGL (GLFW & GLAD), React, CMake and Git.
+🦙 I have experience with many libraries and tools, inluding OpenGL, SDL2, Qt, React, CMake and Git.
 
-⌨️ I specialize in mostly graphics related projects (games, vfx, simulations etc), but I do other stuff as well!
+⌨️ I currently specialize in mostly graphics related projects (games, vfx, simulations etc), but I do lots of other stuff as well!
 
 📫 Contact me? Go here: jenskromdijk@gmail.com | snej55.dev@gmail.com
 
