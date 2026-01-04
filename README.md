@@ -6,7 +6,7 @@ Hi👋 I code stuff.
 
 ⌨️ I currently specialize in mostly graphics related projects (games, vfx, simulations etc), but I do lots of other stuff as well!
 
-📫 Contact me? Go here: jenskromdijk@gmail.com | snej55.dev@gmail.com
+📫 Contact me? Go here: jenskromdijk@gmail.com
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
