@@ -31,5 +31,3 @@ Hi👋 I code stuff.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snej55&layout=compact&theme=ayu-mirage&count_private=true&langs_count=8)](https://github.com/snej55/github-readme-stats)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=snej55&theme=ayu-mirage&show_icons=true&count_private=true&include_all_commits=true)
