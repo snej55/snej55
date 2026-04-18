@@ -1,12 +1,16 @@
 Hi👋 I code stuff.
 
+---
+
 💻 I program mainly in C/C++ at the moment, but I'm also comfortable with Python, HTML/CSS/JS, VB.NET, GLSL, Ruby and Java.
 
 🦙 I have experience with many libraries and tools, such as OpenGL, SDL2, Qt, React, CMake and Git.
 
-⌨️ I currently specialize in mostly graphics related projects (games, vfx, simulations etc), but I do lots of other stuff as well!
+⌨️ I currently specialize in graphics related projects (games, vfx, simulations etc) using low level apis, but I do lots of other stuff as well!
 
 📫 Contact me? Go here: jenskromdijk@gmail.com
+
+#
 
 
 <div>
@@ -29,5 +33,6 @@ Hi👋 I code stuff.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snej55&layout=compact&theme=ayu-mirage&count_private=true&langs_count=8)](https://github.com/snej55/github-readme-stats)
