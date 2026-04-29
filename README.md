@@ -2,7 +2,7 @@ Hi👋 I code stuff.
 
 ---
 
-💻 I program mainly in C/C++ at the moment, but I'm also comfortable with Python, HTML/CSS/JS, VB.NET, GLSL, Ruby and Java.
+💻 I program mainly in C/C++ at the moment, but I'm also comfortable with Python, HTML/CSS/JS, VB.NET, GLSL, Julia, Ruby and Java.
 
 🦙 I have experience with many libraries and tools, such as OpenGL, SDL2, Qt, React, CMake and Git.
 
